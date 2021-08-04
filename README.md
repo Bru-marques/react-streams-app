@@ -15,7 +15,7 @@ This project was developed with the following technologies:
 
 ## 💻 App Challenges:
 
-- The app need to be able to navigate around the components;
+- The app needs to be able to navigate around the components;
 - Needs to allow the user login/logout with google e-mail;
 - Needs to handle forms in React Redux;
 - CRUD operations in Redux;
