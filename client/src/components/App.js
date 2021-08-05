@@ -23,6 +23,4 @@ const App = () => {
   );
 };
 
-//AIzaSyAKPLMdCDJHo7e-inIz8EdSdSlotnSxFz0
-
 export default App;
